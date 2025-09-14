@@ -1,0 +1,62 @@
+
+ Linear Regression
+
+
+
+Step 1: Collect Data
+
+Ravi checked some houses in his town:
+
+600 sqft → $180,000
+
+1000 sqft → $270,000
+
+1400 sqft → $350,000
+
+1800 sqft → $430,000
+
+He wrote them down
+
+
+Step 2: Find the Pattern
+
+Ravi saw:
+
+Small houses = cheaper
+
+Big houses = more costly
+
+But the prices grow in a straight-line pattern.
+
+
+Step 3: Draw the Line
+
+His teacher said:
+“Use Linear Regression. It will draw the best line through your data points.”
+
+Price=m×Size+c
+
+
+Step 4: Make a Prediction
+
+Ravi’s friend asked:
+“What about a 1250 sqft house?”
+
+Ravi looked at the line. It showed about $320,000.
+
+Even though 1250 sqft was not in his list, the line helped him guess the price.
+
+
+Step 5: Lesson
+
+Ravi explained:
+
+Collect real data (blue dots).
+
+Draw the best line (red line).
+
+Use the line to predict new values.
+
+
+
+
